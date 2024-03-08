@@ -3,21 +3,20 @@ criamos um web site do nosso cardápio, estilizando-o. Esse projeto foi criado p
 Criação de Cárdapio na aula de Programação web I (PWI). Inspirado no menu do Rosso Pomodoro! 
 
 ```
-**🛠️Tecnologias Utilizadas:**
+## 🛠️Tecnologias Utilizadas:
 
 - HTML5
 - CSS3
-````
+```
 
 ```
-**🔧Ferramentas:**
-
+## 🔧Ferramentas:
 - Visual Studio Code (VSCODE)
 - GitHub
 ```
 
 ```
-**📁Linguagens Git Utilizadas:**
+## 📁Linguagens Git Utilizadas:
 
 - git clone
 - git add
@@ -27,7 +26,7 @@ Criação de Cárdapio na aula de Programação web I (PWI). Inspirado no menu d
 ```
 
 ```
-**🎁Habilidades Técnicas e Comportamentais:**
+## 🎁Habilidades Técnicas e Comportamentais:
 
 - Hard Skills: Conhecimento em HTML5 e CSS3 para desenvolvimento web.
 - Soft Skills: Educada, Comunicativa, Trabalho em Equipe, Participativa.
