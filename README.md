@@ -33,5 +33,5 @@ Criação de Cárdapio na aula de Programação web I (PWI). Inspirado no menu d
 - Soft Skills: Educada, Comunicativa, Trabalho em Equipe, Participativa.
 ```
 ### Autores 
-| [<img loading="lazy" src="https://user-images.githubusercontent.com/140809968/272249265-389c8791-1744-4a19-a9a0-fde05e6dd499.jpg" width=95><br><sub>Ana Laura</sub>](https://github.com/anacenali) |  
+ [<img loading="lazy" src="https://user-images.githubusercontent.com/140809968/272249265-389c8791-1744-4a19-a9a0-fde05e6dd499.jpg" width=95><br><sub>Ana Laura</sub>](https://github.com/anacenali) 
 
