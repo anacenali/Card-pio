@@ -1,0 +1,147 @@
+body {
+    font-family: serif;
+    margin: 0;
+    padding: 0;
+}
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar ul li a {
+    display: block;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.navbar ul li a:hover {
+    background-color: rgb(255, 211, 211);
+}
+
+.container {
+    max-width: 800px;
+    display: flex;
+
+}
+
+section{
+    padding: 40px;
+}
+
+.container p {
+    font-size: 18px;
+    left: 40%;
+    position: relative;
+    text-align: center;
+}
+#verde{
+background-color: green;
+}
+#branco{
+background-color: white;
+}
+#vermelho{
+background-color: red;
+}
+a{
+    color: black;
+}
+.container li{
+    font-family: verdana;
+    font-size: 100%;
+}
+#logo{
+    padding: -50%;
+    size: 0px;
+    width: 270px;
+    position: relative;
+    left: 73%;
+}
+#Margherita{
+    width: 310px;
+    border-radius: 10%;
+}
+#Pepperoni{
+    width: 300px;
+    border-radius: 10%;
+}
+#Calabresa{
+    width: 311px;
+    border-radius: 10%;
+}
+#QuatroQueijos{
+    width: 310px;
+    border-radius: 10%;
+}   
+#Vegetariana {
+    width: 280px;
+    border-radius: 10%;
+    left: 730%;
+}
+#frangoC{
+    width: 349px;
+    border-radius: 10%;
+    left: 730%;
+}
+#Pizzas{
+    font-size: 38px;
+    font-family:verdana;
+    color: rgb(121, 1, 1);
+}
+#sobremesas{
+    font-size: 38px;
+    font-family:verdana;
+    color: rgb(121, 1, 1);
+}
+#panna{
+    width: 230px;
+    border-radius: 10%;
+    left: 730%;
+
+}
+#bouni{
+    width: 230px;
+    border-radius: 10%;
+    left: 730%;
+}
+p{
+    text-align:center;
+}
+.batata{
+    max-width: 10px;
+}
+#cannolli{
+    width: 240px;
+    border-radius: 10%;
+    left: 730%;
+}
+#zepp{
+    width: 235px;
+    border-radius: 10%;
+    left: 730%;
+}
+#zaba{
+    width: 240px;
+    border-radius: 10%;
+    left: 730%;
+}
+#sobre{
+    text-align: center; 
+    color:rgb(121, 1, 1);
+    font-size: 38px;
+    font-family:verdana;
+ }
+ #contato{
+     color:rgb(121, 1, 1);
+     font-size: 20px;
+    font-family:verdana;
+    text-align: center;
+ }
+ .mostruario{
+     font-size: 18px;
+     font-family:verdana;
+ }
+ 
+ 
